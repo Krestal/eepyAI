@@ -4,10 +4,6 @@ share_updated: 2026-09-27T09:38:22+02:00
 ---
 # Karta zgłoszenia tematu projektu
 
-> **Instrukcja dla zespołu.** Skopiujcie ten plik do swojego repozytorium pod nazwą `karta-tematu.md`, wypełnijcie i zacommitujcie. Punkty 1–4 wypełniacie na pierwszych zajęciach (wpisujecie je też do arkusza). Całość — do kolejnego zjazdu (L3: 3.10, L2: 15.10). Zatwierdzenie tematu dostaniecie jako komentarz w repozytorium.
-> 
-> Usuńcie ten blok po wypełnieniu.
-
 **Grupa:** L3 (niestacjonarna) **Data zgłoszenia:** 03.10.2026
 
 ---
@@ -92,7 +88,7 @@ _Co dorobicie, jeśli starczy czasu. Brak realizacji tej części nie obniża oc
 
 ## 11. Repozytorium
 
-_Link:_
+_Link:_ [https://github.com/Krestal/eepyAI/tree/main](https://github.com/Krestal/eepyAI)
 
 ## 12. Główne ryzyko i plan awaryjny
 Model może przewidywać ale z błędem większym niż zamierzony. Wtedy postaramy się o lepszy dobór danych testowych lub zmienimy model.
