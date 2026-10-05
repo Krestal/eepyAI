@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/mdxqmhwe#9dalkcKZZG9oTSGt+Dqi/zjv8lvS1SslMGr78DAE6fY
-share_updated: 2026-09-27T09:38:22+02:00
----
 # Karta zgłoszenia tematu projektu
 
 **Grupa:** L3 (niestacjonarna) **Data zgłoszenia:** 03.10.2026
@@ -10,6 +6,8 @@ share_updated: 2026-09-27T09:38:22+02:00
 
 ## 1. Skład zespołu
 
+|||
+|---|---|
 |Imię i nazwisko|Nr albumu|Rola w zespole|
 |Michał S|31885|dane, implementacja, ewaluacja, dokumentacja, koordynacja|
 |Iza J|31881|dane, implementacja, ewaluacja, dokumentacja, koordynacja|
@@ -67,6 +65,13 @@ Algorytm genetyczny służy do problemów optymalizacyjnych (np. znajdowanie naj
 |Rozmiar i format|8500 rekordów 18 kolumn csv|
 |Czy są już dostępne?|tak|
 |Jeśli nie — plan pozyskania||
+
+Uzasadnienie (dlaczego takie dane?):
+Inne publiczne datasety nie mają wartości next_day_fatigue_score lub ekwiwalentu takiej wartości. W innych badaniach celem nie było zmierzenie zmęczenia lecz wpływu jakości snu na parametry zdrowotne i inne dziedziny życia (edukacja, sport)
+Przejrzane datasety:
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+https://www.kaggle.com/datasets/aamir28/student-sleep-screen-time-and-academic-performance
+https://www.kaggle.com/datasets/amith1707/fitness-and-health-simulation-dataset
 
 ## 7. Stos technologiczny
 Python3
