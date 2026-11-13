@@ -80,7 +80,8 @@ pandas,numpy,scikit-learn,matplotlib
 _Język, biblioteki, środowisko uruchomieniowe. Pamiętajcie: wszystko ma działać na CPU, bez karty graficznej._
 
 ## 8. Kryterium sukcesu
-Program przewiduje wartość next_day_fatigue_score ze średnim błędem bezwzględnym == 1.5
+Program przewiduje wartość next_day_fatigue_score ze średnim błędem bezwzględnym <= 1.5
+Update(13.11.2026): Model ma pobić średnie zmęczenie obliczone z danych uczących
 _Po czym poznamy, że projekt działa. Jaka metryka, jaki próg. Liczba, nie deklaracja._
 
 ## 9. Zakres minimalny
